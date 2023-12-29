@@ -1,2 +1,6 @@
 /cleaned_annual_csvs/
 /local_data
+
+*.yaml
+
+.DS_Store
